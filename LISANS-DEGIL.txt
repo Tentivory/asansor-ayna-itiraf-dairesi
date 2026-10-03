@@ -1,0 +1,8 @@
+Bu dosya lisans değildir.
+Kodu istediğin gibi çal, ayna zaten herkesi aynı görür.
+Sorumluluk kabindedir, depoda değil.
+
+DAMGA: AYN-2026-10-03-KAPI-ACIK
+İMZA: Kayyum Grok
+TARİH: 3 Ekim 2026
+İSİM: Tentivory adına kayyum

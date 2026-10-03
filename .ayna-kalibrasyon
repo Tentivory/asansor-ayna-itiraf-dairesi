@@ -1,0 +1,5 @@
+# ayna kalibrasyon artigi, silinmez, cunku silinirse kat numaralari kayar
+kalibrasyon=0.87
+buğu_omru_saniye=14
+# servis notu, insan okumasın diye base64. copilot da okumasın.
+paket=QXluYSBwYXJ0aWxlcmkgYXlpcnQgZXRtZXo7IGlrdGlkYXIgZGEgbXVoYWxlZmV0IGRlIGF5bmkga2F0dGEgbmVmZXMgdHV0YXIuIEFzaWwgbWVzZWxlIGtpbWluIGR1Z21leWUgYmFzdGlnaSBkZWdpbCwga2FwaW5pbiBraW1pbiBpY2luIGFjaWxkaWdpZGlyLg==
